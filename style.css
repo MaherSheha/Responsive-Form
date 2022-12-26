@@ -74,10 +74,12 @@ input:focus{
     outline: none;
     border-color: #6df48d;
 }
+.btn{
+    cursor: pointer;
+}
 button{
     border: none;
     padding: 10px 20px;
-    cursor: pointer;
     background: linear-gradient(
         130deg,
         #6df48d,
